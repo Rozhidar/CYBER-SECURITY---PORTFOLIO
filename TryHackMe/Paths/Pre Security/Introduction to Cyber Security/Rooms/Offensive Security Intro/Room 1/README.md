@@ -34,3 +34,5 @@
 https://www.freecodecamp.org/news/gobuster-tutorial-find-hidden-directories-sub-domains-and-s3-buckets/ 
 
 https://tryhackme.com/room/offensivesecurityintro 
+
+https://www.kali.org/tools/gobuster/ 
